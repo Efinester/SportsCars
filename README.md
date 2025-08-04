@@ -4,3 +4,4 @@
 ###Home 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/cde04bad-c9c8-4a0f-84ea-57a8ad4bd48e" />
 ###Profile
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/74ccd156-3a9d-492a-aefd-be7ac4b22bc0" />
