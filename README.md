@@ -10,3 +10,5 @@
 ###Settings
 <img width="373" height="769" alt="Image" src="https://github.com/user-attachments/assets/13ce2adf-89a4-4b83-8fb9-b899dd7a5194" />
 ###Login
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/8cb030aa-e022-437a-8a3c-32ccbb4698d5" />
+
