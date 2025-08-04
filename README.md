@@ -6,3 +6,4 @@
 ###Profile
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/74ccd156-3a9d-492a-aefd-be7ac4b22bc0" />
 ###Game
+<img width="371" height="771" alt="Image" src="https://github.com/user-attachments/assets/e822349c-d355-4c37-b062-9b82d4b6dc47" />
